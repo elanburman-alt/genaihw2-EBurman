@@ -8,4 +8,4 @@
 **Value:** Reduces drafting time per contact; maintains relationship tone at scale
 
 ## Video Walkthrough
-[Link TBD]
+[\[(https://youtu.be/qpucytEgJ-g)\]]
