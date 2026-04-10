@@ -3,7 +3,7 @@ from google import genai
 from google.genai import types
 
 # --- CONFIGURATION ---
-API_KEY = "AIzaSyBEX2yHLIJnXR8jfvb5Qa7yp9sLg6eVg4Y"
+API_KEY = "AIzaSyCUKLEdZMt1mx9nOxgVert6nkZKcpelxeU"
 MODEL_NAME = "gemini-2.5-flash"
 
 # --- SYSTEM PROMPT ---
