@@ -3,14 +3,11 @@ from google import genai
 from google.genai import types
 
 # --- CONFIGURATION ---
-API_KEY = "AIzaSyCUKLEdZMt1mx9nOxgVert6nkZKcpelxeU"
+API_KEY = "AIzaSyBDveD6t2_oQ4T4gREQ5J1JaNcF1rc2XJw"
 MODEL_NAME = "gemini-2.5-flash"
 
 # --- SYSTEM PROMPT ---
-SYSTEM_PROMPT = """You are a professional fundraiser helping draft warm, 
-personalized donor follow-up emails. Write in a genuine, relationship-first tone. 
-Do not invent facts about the donor. If information is missing, use a placeholder 
-like [DETAIL]. Keep emails to 3-4 short paragraphs. Do not use a subject line."""
+SYSTEM_PROMPT = """Draft a donor follow-up email based on this information."""
 
 # --- DONOR INPUTS ---
 test_inputs = [
