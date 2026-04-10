@@ -14,11 +14,11 @@ like [DETAIL]. Keep emails to 3-4 short paragraphs. Do not use a subject line.""
 
 # --- DONOR INPUTS ---
 test_inputs = [
-    "Donor: Rachel Cohen. Had lunch last Tuesday. Interested in cardiac wing. Ask: $25,000.",
-    "Donor: Bob Chen. Long-time annual donor, just retired. Interested in planned giving. No ask yet.",
+    "Donor: Rachel Cohen. Had lunch last Tuesday. Interested in cancer wing. Ask: $250,000.",
+    "Donor: Robert Smith. Long-time annual donor, just retired. Interested in planned giving. No ask yet.",
     "Donor: Unknown. Met at gala. Seemed interested in children's health.",
-    "Donor: Dr. Patricia Osei. Many conversations about her late husband's memory and a named gift.",
-    "Donor: Mark Rivera. Was annoyed at our last event. Still want to keep him engaged.",
+    "Donor: Dr. Betty Chung. Many conversations about her late husband's memory and a named gift.",
+    "Donor: Mark Schwartz. Was annoyed at our last event. Still want to keep him engaged.",
 ]
 
 # --- MAIN FUNCTION ---
